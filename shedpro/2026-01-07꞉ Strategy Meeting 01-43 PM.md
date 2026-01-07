@@ -30,13 +30,13 @@ date: 2026-01-07
 type: executive_strategy_session
 participants:
   - Hudson Lorfing (CFO/Finance Advisor)
-  - Aaron (Product/Operations Team Member)
+  - Kat (Operations)
 tags: [onboarding, pricing-strategy, product-development, competitive-analysis, revenue-optimization]
 ---
 
 # Executive Summary
 
-This strategic advisory meeting focused on ShedPro's critical onboarding challenges and competitive positioning, with Hudson providing financial guidance on revenue optimization through faster customer activation. Aaron provided detailed operational context on current onboarding bottlenecks, including complex feature mapping, pricing configuration, and project management challenges that significantly impact time-to-value. The discussion revealed that onboarding speed represents ShedPro's single biggest competitive advantage opportunity, with current inefficiencies preventing faster revenue recognition and creating switching costs that work against customer acquisition. Key strategic decisions centered on team restructuring, process standardization, and addressing critical product gaps (particularly porch configurations and window/door features) that are causing customer churn and preventing competitive wins against Idea Room.
+This strategic advisory meeting focused on ShedPro's critical onboarding challenges and competitive positioning, with Hudson providing financial guidance on revenue optimization through faster customer activation. Kat provided detailed operational context on current onboarding bottlenecks, including complex feature mapping, pricing configuration, and project management challenges that significantly impact time-to-value. The discussion revealed that onboarding speed represents ShedPro's single biggest competitive advantage opportunity, with current inefficiencies preventing faster revenue recognition and creating switching costs that work against customer acquisition. Key strategic decisions centered on team restructuring, process standardization, and addressing critical product gaps (particularly porch configurations and window/door features) that are causing customer churn and preventing competitive wins against Idea Room.
 
 ## Strategic Decisions
 
@@ -47,7 +47,7 @@ This strategic advisory meeting focused on ShedPro's critical onboarding challen
 
 ### **Product-Specific Specialization**
 - **Decision**: Structure PCs to have deep product knowledge rather than generalist approach
-- **Rationale**: "The fastest PCs do is they know the product or your product well enough and deep enough to be able to look through all the features and requirements and say, okay, this is net new. This is something that we can modify existing structure with" - Aaron
+- **Rationale**: "The fastest PCs do is they know the product or your product well enough and deep enough to be able to look through all the features and requirements and say, okay, this is net new. This is something that we can modify existing structure with" - Kat
 - **Expected Impact**: Reduced onboarding complexity and faster technical decision-making
 
 ### **Onboarding Process Standardization**
@@ -96,14 +96,14 @@ This strategic advisory meeting focused on ShedPro's critical onboarding challen
 ## Action Items
 
 ### Immediate (Q1 2026)
-- #aaron: Complete porch configuration system to handle multiple styles within single structure
-- #aaron: Finalize door/transom trim system to match resolved window system
+- #kat: Complete porch configuration system to handle multiple styles within single structure
+- #kat: Finalize door/transom trim system to match resolved window system
 - #hudson: Develop onboarding timeline enforcement policy with clear reactivation fees
 - Team: Create automated data migration tools for initial client setup
 
 ### Strategic (2026)
 - #hudson: Analyze ROI of specialized PC teams vs. current generalist approach  
-- #aaron: Document technical requirements for AI-resistant features and service differentiation
+- #kat: Document technical requirements for AI-resistant features and service differentiation
 - Leadership: Define 3-year technology strategy to maintain competitive moat against AI disruption
 
 ## Key Quotes
@@ -115,7 +115,7 @@ This strategic advisory meeting focused on ShedPro's critical onboarding challen
 > "Y'all have the best service... People might switch for price, but they stay for service. Just like people might switch for salary, but stay for culture." - Hudson
 
 **On Product Development:**
-> "We have to keep maintain our selling points. We have what they have and we have what they don't have." - Aaron
+> "We have to keep maintain our selling points. We have what they have and we have what they don't have." - Kat
 
 ## Risks & Concerns
 
